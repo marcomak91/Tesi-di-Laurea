@@ -1,2 +1,2 @@
-# Tesi-di-Laurea
+# Tesi di Laurea
 Relazione finale sullo stage univeritario
